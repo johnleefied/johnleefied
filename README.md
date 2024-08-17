@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnleefied
+- 👋 Hi, I’m John Lee (@johnleefied)
 - 👀 I’m interested in data and anything that is related to data
 - 🌱 I’m currently studying datawarehousing and machine learning
 - 📫 You can reach me thru my LinkedIn Account: https://www.linkedin.com/in/johnleematanguihan/
